@@ -1,4 +1,4 @@
-package repositories;
+package com.example.Glue.GlueProject.repository;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;
